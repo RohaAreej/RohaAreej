@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohaAreej&label=Profile%20views&color=0e75b6&style=flat" alt="RohaAreej" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RohaAreej" alt="RohaAreej" /></a> </p>
-
 - 🔭 I’m currently working on [SkinCare, a mobile application for early detection of deadliest skin cancer (melanoma).]
 
 - 🌱 I’m currently learning **python frameworks like Flask and Tensorflow**
