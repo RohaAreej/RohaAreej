@@ -38,11 +38,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
     </a> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
 
 
@@ -51,3 +47,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohaAreej&show_icons=true&locale=en" alt="RohaAreej" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohaAreej&" alt="RohaAreej" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
