@@ -44,6 +44,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohaAreej&show_icons=true&locale=en" alt="RohaAreej" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohaAreej&" alt="RohaAreej" /></p>
-<p align="center">
-  <img src="https://github.com/RohaAreej/RohaAreej/raw/output/ocean.gif" alt="snake">
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.github.com/RohaAreej/RohaAreej/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.github.com/RohaAreej/RohaAreej/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.github.com/RohaAreej/RohaAreej/output/github-contribution-grid-snake.svg">
+</picture>
+
