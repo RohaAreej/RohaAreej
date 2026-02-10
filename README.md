@@ -52,17 +52,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RohaAreej/RohaAreej/output/github-contribution-grid-snake.svg">
 </picture>
 
-<h3 align="left">GitLab Activity:</h3>
+<h3 align="left">GitLab Activity & Projects:</h3>
 <p align="left">
-  <img src="https://gitlab-readme-stats.vercel.app/api?username=RohaAreej1&show_icons=true&locale=en" alt="RohaAreej1 GitLab Stats" />
-</p>
-<h3 align="left">GitLab Projects:</h3>
-<p align="left">
+  <!-- GitLab Project Badge -->
   <a href="https://gitlab.com/RohaAreej1/ticket911" target="_blank">
     <img src="https://img.shields.io/badge/Ticket911-GitLab-orange?style=for-the-badge&logo=gitlab" alt="Ticket911">
   </a>
 </p>
-This adds a clean b
-<p align="center">
-  <img src="https://gitlab-readme-stats.vercel.app/api/contributions?username=RohaAreej1" alt="GitLab Contributions"/>
+
+<!-- Optional: Only show stats if public -->
+<p align="left">
+  <img src="https://gitlab-readme-stats.vercel.app/api?username=RohaAreej1&show_icons=true&locale=en" alt="GitLab Stats"/>
 </p>
