@@ -52,3 +52,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RohaAreej/RohaAreej/output/github-contribution-grid-snake.svg">
 </picture>
 
+<p align="center">
+  <img src="https://gitlab-readme-stats.vercel.app/api/contributions?username=RohaAreej1" alt="GitLab Contributions"/>
+</p>
